@@ -1,0 +1,37 @@
+---
+{
+  "company": "OpsPilot AI",
+  "source_type": "customer_interview",
+  "title": "Oak & Pine Hospitality feedback on onboarding",
+  "project": "Onboarding",
+  "author": "Amina Okafor, Customer Success Lead",
+  "date": "2026-02-22",
+  "tags": [
+    "onboarding",
+    "permissions",
+    "training"
+  ],
+  "customer": "Oak & Pine Hospitality"
+}
+---
+
+# Customer Interview: Oak & Pine Hospitality
+
+## Context
+OpsPilot AI spoke with Oak & Pine Hospitality to understand operational pain points around new account setup, invite links, role configuration, and first-week activation.
+
+## Key observations
+- Hotel managers struggled to invite temporary seasonal staff and wanted bulk invites with expiration dates.
+- The customer repeatedly framed the issue as operational friction rather than a missing feature.
+- They care less about a beautiful dashboard and more about fewer manual follow-ups.
+- They asked for clearer ownership, fewer duplicate messages, and better first-week guidance.
+
+## Notable quotes
+- "We need to know who owns the next step without asking in three different places."
+- "The setup is where confidence drops. Once the team is in, they like it."
+- "Urgent work should not look the same as routine reminders."
+
+## Follow-up actions
+- Product to review whether this maps to an existing roadmap item.
+- Customer Success to tag this account for follow-up after the next release.
+- Engineering to check whether this is caused by known data import, notification, or role logic issues.

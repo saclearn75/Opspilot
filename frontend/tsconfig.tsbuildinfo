@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/client.ts","./src/components/chunkcardlist.tsx","./src/components/documentviewer.tsx","./src/components/llmoutput.tsx","./src/components/questioninput.tsx","./src/components/sidebar.tsx","./src/components/statusbar.tsx","./src/types/api.ts"],"version":"5.9.3"}

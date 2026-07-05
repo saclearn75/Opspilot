@@ -1,0 +1,14 @@
+Create a single-file FastAPI application inside a file named `main.py`. 
+Inside `main.py`, include an inline HTML dashboard string served at the root URL ("/") using FastAPI's HTMLResponse. 
+
+The HTML page should look like a highly polished modern dashboard using Tailwind CSS CDN, specifically tailored for a longevity and functional medicine platform called Peak Health.
+
+The dashboard must display:
+1. A patient header (e.g., "Jane Doe, Age 42").
+2. A clean layout containing 3 biomarker cards: 
+   - "Cortisol (Am)"
+   - "Estradiol"
+   - "Vitamin D"
+3. A distinct container placeholder box labeled "AI Clinical Insights Triage Panel" that currently just displays the placeholder text "No report generated yet."
+
+Ensure the code is complete, valid Python, and ready to run.
