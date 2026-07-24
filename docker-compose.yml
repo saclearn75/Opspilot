@@ -1,0 +1,15 @@
+services:
+  opspilot:
+    build: .
+    container_name: opspilot
+    environment:
+      - ROOT_PATH=/memoryos
+    ports:
+      - "8002:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./backend/storage:/app/backend/storage
+    restart: unless-stopped
+
+

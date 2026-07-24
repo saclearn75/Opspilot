@@ -7,7 +7,9 @@ from backend.app.db.sqlite import init_db
 from backend.app.routes import ask, clear, documents, ingest, status
 from backend.app.schemas.common import ErrorResponse, HealthResponse
 
-app = FastAPI(title="OpsPilot API")
+import os
+
+app = FastAPI(title="OpsPilot API", root_path=os.getenv("ROOT_PATH",""))
 
 app.add_middleware(
     CORSMiddleware,
